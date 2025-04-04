@@ -1,5 +1,6 @@
-assets/img/*.jpg
-assets/img/*.jpeg
-assets/img/*.png
-assets/img/*.gif
-assets/img/*.svg
+# Ignore les fichiers .DS_Store sur macOS
+.DS_Store
+
+# Ignore les fichiers image .png et .jpg
+*.png
+*.jpg
