@@ -1,6 +1,3 @@
 # Ignore les fichiers .DS_Store sur macOS
 .DS_Store
 
-# Ignore les fichiers image .png et .jpg
-*.png
-*.jpg
